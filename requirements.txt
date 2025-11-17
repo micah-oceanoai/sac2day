@@ -1,0 +1,10 @@
+# Sacramento Events Finder - Python Dependencies
+
+# OpenAI SDK for Responses API
+openai>=1.0.0
+
+# Timezone handling
+pytz>=2023.3
+
+# Environment variable management (optional, for future use)
+python-dotenv>=1.0.0
